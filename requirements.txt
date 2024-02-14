@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+numpy==1.21.5
+opencv-python==4.8.0.74
+Pillow==9.0.1
+pytorch-lightning==1.6.5
+scikit-learn==1.0.2
+tqdm==4.64.0
+wget==3.2
