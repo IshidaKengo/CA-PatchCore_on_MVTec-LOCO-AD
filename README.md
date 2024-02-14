@@ -6,7 +6,7 @@
 Donwload MVTec LOCO AD to **./dataset**.
 (https://www.mvtec.com/company/research/datasets/mvtec-loco)
 
-### environment
+### Environment
 ~~~
 python==3.10.12
 torch==2.0.1
